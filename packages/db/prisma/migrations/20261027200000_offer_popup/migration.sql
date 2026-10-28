@@ -1,0 +1,8 @@
+ALTER TABLE `store_settings`
+  ADD COLUMN `popupEnabled` BOOLEAN NOT NULL DEFAULT false,
+  ADD COLUMN `popupTitle` VARCHAR(160) NULL,
+  ADD COLUMN `popupBody` TEXT NULL,
+  ADD COLUMN `popupImageUrl` VARCHAR(500) NULL,
+  ADD COLUMN `popupCtaLabel` VARCHAR(80) NULL,
+  ADD COLUMN `popupCtaUrl` VARCHAR(500) NULL,
+  ADD COLUMN `popupUpdatedAt` DATETIME(3) NULL;

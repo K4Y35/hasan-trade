@@ -1,0 +1,16 @@
+node_modules
+.turbo
+dist
+.next
+out
+coverage
+*.tsbuildinfo
+.env
+.env.local
+.env.*.local
+uploads
+.DS_Store
+.cursor
+packages/db/src/generated
+apps/*/.next
+apps/*/dist

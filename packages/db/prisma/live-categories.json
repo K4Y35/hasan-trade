@@ -1,0 +1,632 @@
+[
+  {
+    "wooId": 260,
+    "name": "AC Servicing",
+    "slug": "ac-servicing",
+    "parentSlug": null,
+    "count": 1
+  },
+  {
+    "wooId": 177,
+    "name": "Accessories",
+    "slug": "accessories",
+    "parentSlug": null,
+    "count": 58
+  },
+  {
+    "wooId": 287,
+    "name": "Air Circulator Fan",
+    "slug": "air-circulator-fan",
+    "parentSlug": "fan-and-cooler",
+    "count": 1
+  },
+  {
+    "wooId": 199,
+    "name": "Air Cooler",
+    "slug": "air-cooler",
+    "parentSlug": "fan-and-cooler",
+    "count": 6
+  },
+  {
+    "wooId": 201,
+    "name": "Air Curtain",
+    "slug": "air-curtain",
+    "parentSlug": "fan-and-cooler",
+    "count": 2
+  },
+  {
+    "wooId": 223,
+    "name": "Air Purifier",
+    "slug": "air-purifier",
+    "parentSlug": "small-appliances",
+    "count": 1
+  },
+  {
+    "wooId": 180,
+    "name": "Air Conditioner",
+    "slug": "air-conditioner",
+    "parentSlug": null,
+    "count": 107
+  },
+  {
+    "wooId": 179,
+    "name": "AC Spare Parts",
+    "slug": "ac-spare-parts",
+    "parentSlug": null,
+    "count": 57
+  },
+  {
+    "wooId": 212,
+    "name": "Blender and Mixer",
+    "slug": "blender-and-mixer",
+    "parentSlug": "kitchen-appliances",
+    "count": 2
+  },
+  {
+    "wooId": 252,
+    "name": "Bullet",
+    "slug": "bullet-hd-cvi-camera",
+    "parentSlug": "hd-cvi-camera",
+    "count": 2
+  },
+  {
+    "wooId": 247,
+    "name": "Bullet",
+    "slug": "bullet",
+    "parentSlug": "ip-camera",
+    "count": 3
+  },
+  {
+    "wooId": 176,
+    "name": "Camera",
+    "slug": "camera",
+    "parentSlug": null,
+    "count": 68
+  },
+  {
+    "wooId": 204,
+    "name": "Camera Accessories",
+    "slug": "camera-accessories",
+    "parentSlug": "camera",
+    "count": 32
+  },
+  {
+    "wooId": 187,
+    "name": "Cassette",
+    "slug": "cassette",
+    "parentSlug": "air-conditioner",
+    "count": 21
+  },
+  {
+    "wooId": 186,
+    "name": "Ceiling",
+    "slug": "ceiling",
+    "parentSlug": "air-conditioner",
+    "count": 13
+  },
+  {
+    "wooId": 200,
+    "name": "Ceiling Fan",
+    "slug": "ceiling-fan",
+    "parentSlug": "fan-and-cooler",
+    "count": 2
+  },
+  {
+    "wooId": 191,
+    "name": "Chiller",
+    "slug": "chiller",
+    "parentSlug": "air-conditioner",
+    "count": 2
+  },
+  {
+    "wooId": 283,
+    "name": "Cummins",
+    "slug": "cummins",
+    "parentSlug": "generator",
+    "count": 2
+  },
+  {
+    "wooId": 224,
+    "name": "Dehumidifier",
+    "slug": "dehumidifier",
+    "parentSlug": "small-appliances",
+    "count": 5
+  },
+  {
+    "wooId": 243,
+    "name": "Digital Video Recorder(DVR)",
+    "slug": "digital-video-recorderdvr",
+    "parentSlug": "camera",
+    "count": 11
+  },
+  {
+    "wooId": 253,
+    "name": "Dome",
+    "slug": "dome-hd-cvi-camera",
+    "parentSlug": "hd-cvi-camera",
+    "count": 3
+  },
+  {
+    "wooId": 248,
+    "name": "Dome",
+    "slug": "dome",
+    "parentSlug": "ip-camera",
+    "count": 0
+  },
+  {
+    "wooId": 189,
+    "name": "Ducted Split",
+    "slug": "ducted-split",
+    "parentSlug": "air-conditioner",
+    "count": 4
+  },
+  {
+    "wooId": 222,
+    "name": "Electric Iron",
+    "slug": "electric-iron",
+    "parentSlug": "small-appliances",
+    "count": 2
+  },
+  {
+    "wooId": 213,
+    "name": "Electric Kettle",
+    "slug": "electric-kettle",
+    "parentSlug": "kitchen-appliances",
+    "count": 2
+  },
+  {
+    "wooId": 245,
+    "name": "ELITE",
+    "slug": "elite",
+    "parentSlug": "split-wall-mounted",
+    "count": 2
+  },
+  {
+    "wooId": 198,
+    "name": "Fan & Cooler",
+    "slug": "fan-and-cooler",
+    "parentSlug": null,
+    "count": 11
+  },
+  {
+    "wooId": 255,
+    "name": "Fisheye",
+    "slug": "fisheye-hd-cvi-camera",
+    "parentSlug": "hd-cvi-camera",
+    "count": 0
+  },
+  {
+    "wooId": 250,
+    "name": "Fisheye",
+    "slug": "fisheye",
+    "parentSlug": "ip-camera",
+    "count": 0
+  },
+  {
+    "wooId": 188,
+    "name": "Floor Standing",
+    "slug": "floor-standing",
+    "parentSlug": "air-conditioner",
+    "count": 6
+  },
+  {
+    "wooId": 195,
+    "name": "Front Loading",
+    "slug": "front-loading",
+    "parentSlug": "washing-machine",
+    "count": 4
+  },
+  {
+    "wooId": 214,
+    "name": "Gas Stove",
+    "slug": "gas-stove",
+    "parentSlug": "kitchen-appliances",
+    "count": 2
+  },
+  {
+    "wooId": 241,
+    "name": "GENERAL",
+    "slug": "general-brand-split-mounted",
+    "parentSlug": "split-wall-mounted",
+    "count": 6
+  },
+  {
+    "wooId": 262,
+    "name": "GENERAL Brand",
+    "slug": "general",
+    "parentSlug": "ceiling",
+    "count": 4
+  },
+  {
+    "wooId": 269,
+    "name": "General Brand",
+    "slug": "general-brand",
+    "parentSlug": "cassette",
+    "count": 3
+  },
+  {
+    "wooId": 234,
+    "name": "Generator",
+    "slug": "generator",
+    "parentSlug": null,
+    "count": 10
+  },
+  {
+    "wooId": 240,
+    "name": "GREE",
+    "slug": "gree-brand-split-mounted",
+    "parentSlug": "split-wall-mounted",
+    "count": 24
+  },
+  {
+    "wooId": 268,
+    "name": "Gree Brand",
+    "slug": "gree-brand",
+    "parentSlug": "cassette",
+    "count": 6
+  },
+  {
+    "wooId": 264,
+    "name": "Gree Brand",
+    "slug": "gree-floor-standing",
+    "parentSlug": "floor-standing",
+    "count": 4
+  },
+  {
+    "wooId": 261,
+    "name": "GREE Brand",
+    "slug": "gree",
+    "parentSlug": "ceiling",
+    "count": 3
+  },
+  {
+    "wooId": 272,
+    "name": "Gree brand Duct Type",
+    "slug": "gree-brand-duct-type",
+    "parentSlug": "ducted-split",
+    "count": 3
+  },
+  {
+    "wooId": 270,
+    "name": "Gree Brand Portable Air-Conditioner",
+    "slug": "gree-brand-portable",
+    "parentSlug": "portable",
+    "count": 1
+  },
+  {
+    "wooId": 246,
+    "name": "GREEN AIRE",
+    "slug": "green-aire",
+    "parentSlug": "split-wall-mounted",
+    "count": 1
+  },
+  {
+    "wooId": 286,
+    "name": "Green Power",
+    "slug": "green-power",
+    "parentSlug": "generator",
+    "count": 2
+  },
+  {
+    "wooId": 279,
+    "name": "Haier",
+    "slug": "haier",
+    "parentSlug": "split-wall-mounted",
+    "count": 3
+  },
+  {
+    "wooId": 257,
+    "name": "HAIKO",
+    "slug": "haiko",
+    "parentSlug": "split-wall-mounted",
+    "count": 3
+  },
+  {
+    "wooId": 226,
+    "name": "HAIKO Chest Freezer",
+    "slug": "haiko-chest-freezer",
+    "parentSlug": "refrigerator-and-freezer",
+    "count": 2
+  },
+  {
+    "wooId": 225,
+    "name": "HAIKO Refrigerator",
+    "slug": "haiko-refrigerator",
+    "parentSlug": "refrigerator-and-freezer",
+    "count": 2
+  },
+  {
+    "wooId": 202,
+    "name": "HDCVI Camera",
+    "slug": "hd-cvi-camera",
+    "parentSlug": "camera",
+    "count": 9
+  },
+  {
+    "wooId": 215,
+    "name": "Infrared Cooker",
+    "slug": "infrared-cooker",
+    "parentSlug": "kitchen-appliances",
+    "count": 2
+  },
+  {
+    "wooId": 203,
+    "name": "IP Camera",
+    "slug": "ip-camera",
+    "parentSlug": "camera",
+    "count": 11
+  },
+  {
+    "wooId": 211,
+    "name": "Kitchen Appliances",
+    "slug": "kitchen-appliances",
+    "parentSlug": null,
+    "count": 16
+  },
+  {
+    "wooId": 278,
+    "name": "Konka Brand Smart TV",
+    "slug": "konka-brand-smart-tv",
+    "parentSlug": "smart-led-tv",
+    "count": 3
+  },
+  {
+    "wooId": 229,
+    "name": "KONKA Chest freezer",
+    "slug": "konka-chest-freezer",
+    "parentSlug": "refrigerator-and-freezer",
+    "count": 3
+  },
+  {
+    "wooId": 227,
+    "name": "KONKA Chiller Fridge",
+    "slug": "konka-chiller-fridge",
+    "parentSlug": "refrigerator-and-freezer",
+    "count": 6
+  },
+  {
+    "wooId": 275,
+    "name": "KONKA KITCHEN HOOD",
+    "slug": "konka-kitchen-hood",
+    "parentSlug": "kitchen-appliances",
+    "count": 3
+  },
+  {
+    "wooId": 209,
+    "name": "KONKA Refrigerator",
+    "slug": "konka-refrigerator",
+    "parentSlug": "refrigerator-and-freezer",
+    "count": 3
+  },
+  {
+    "wooId": 216,
+    "name": "Microwave Oven",
+    "slug": "microwave-oven",
+    "parentSlug": "kitchen-appliances",
+    "count": 2
+  },
+  {
+    "wooId": 244,
+    "name": "MIDEA",
+    "slug": "midea",
+    "parentSlug": "split-wall-mounted",
+    "count": 6
+  },
+  {
+    "wooId": 263,
+    "name": "MIDEA Brand",
+    "slug": "midea-ceiling",
+    "parentSlug": "ceiling",
+    "count": 6
+  },
+  {
+    "wooId": 266,
+    "name": "Midea Brand",
+    "slug": "midea-brand",
+    "parentSlug": "floor-standing",
+    "count": 1
+  },
+  {
+    "wooId": 267,
+    "name": "Midea Brand",
+    "slug": "midea-brand-cassette",
+    "parentSlug": "cassette",
+    "count": 12
+  },
+  {
+    "wooId": 273,
+    "name": "Midea Brand Duct Type",
+    "slug": "midea-brand-duct-type",
+    "parentSlug": "ducted-split",
+    "count": 1
+  },
+  {
+    "wooId": 271,
+    "name": "Midea Brand Portable Air-Conditioner",
+    "slug": "midea-brand-portable",
+    "parentSlug": "portable",
+    "count": 1
+  },
+  {
+    "wooId": 190,
+    "name": "Multi VRF",
+    "slug": "multi-vrf",
+    "parentSlug": "air-conditioner",
+    "count": 2
+  },
+  {
+    "wooId": 242,
+    "name": "Network Video Recorder(NVR)",
+    "slug": "network-video-recordernvr",
+    "parentSlug": "camera",
+    "count": 5
+  },
+  {
+    "wooId": 193,
+    "name": "Non Smart TV",
+    "slug": "non-smart-tv",
+    "parentSlug": "television",
+    "count": 3
+  },
+  {
+    "wooId": 284,
+    "name": "Perkins",
+    "slug": "perkins",
+    "parentSlug": "generator",
+    "count": 2
+  },
+  {
+    "wooId": 185,
+    "name": "Portable",
+    "slug": "portable",
+    "parentSlug": "air-conditioner",
+    "count": 2
+  },
+  {
+    "wooId": 217,
+    "name": "Pressure Cooker",
+    "slug": "pressure-cooker",
+    "parentSlug": "kitchen-appliances",
+    "count": 2
+  },
+  {
+    "wooId": 254,
+    "name": "PTZ",
+    "slug": "ptz-hd-cvi-camera",
+    "parentSlug": "hd-cvi-camera",
+    "count": 0
+  },
+  {
+    "wooId": 249,
+    "name": "PTZ",
+    "slug": "ptz",
+    "parentSlug": "ip-camera",
+    "count": 0
+  },
+  {
+    "wooId": 208,
+    "name": "Refrigerator & Freezer",
+    "slug": "refrigerator-and-freezer",
+    "parentSlug": null,
+    "count": 18
+  },
+  {
+    "wooId": 282,
+    "name": "Ricardo",
+    "slug": "ricardo",
+    "parentSlug": "generator",
+    "count": 4
+  },
+  {
+    "wooId": 218,
+    "name": "Rice Cooker",
+    "slug": "rice-cooker",
+    "parentSlug": "kitchen-appliances",
+    "count": 1
+  },
+  {
+    "wooId": 256,
+    "name": "Safe",
+    "slug": "safe",
+    "parentSlug": "split-wall-mounted",
+    "count": 1
+  },
+  {
+    "wooId": 197,
+    "name": "Semi Auto",
+    "slug": "semi-auto",
+    "parentSlug": "washing-machine",
+    "count": 1
+  },
+  {
+    "wooId": 228,
+    "name": "Side by Side",
+    "slug": "side-by-side",
+    "parentSlug": "refrigerator-and-freezer",
+    "count": 2
+  },
+  {
+    "wooId": 220,
+    "name": "Small Appliances",
+    "slug": "small-appliances",
+    "parentSlug": null,
+    "count": 10
+  },
+  {
+    "wooId": 192,
+    "name": "Smart LED TV",
+    "slug": "smart-led-tv",
+    "parentSlug": "television",
+    "count": 6
+  },
+  {
+    "wooId": 184,
+    "name": "Split Wall Mounted",
+    "slug": "split-wall-mounted",
+    "parentSlug": "air-conditioner",
+    "count": 50
+  },
+  {
+    "wooId": 181,
+    "name": "Television",
+    "slug": "television",
+    "parentSlug": null,
+    "count": 9
+  },
+  {
+    "wooId": 196,
+    "name": "Top Loading",
+    "slug": "top-loading",
+    "parentSlug": "washing-machine",
+    "count": 2
+  },
+  {
+    "wooId": 285,
+    "name": "Transformer",
+    "slug": "transformer",
+    "parentSlug": null,
+    "count": 1
+  },
+  {
+    "wooId": 276,
+    "name": "VIOMI Brand",
+    "slug": "viomi-brand",
+    "parentSlug": "split-wall-mounted",
+    "count": 2
+  },
+  {
+    "wooId": 221,
+    "name": "Voltage Stabilizer",
+    "slug": "voltage-stabilizer",
+    "parentSlug": "small-appliances",
+    "count": 2
+  },
+  {
+    "wooId": 194,
+    "name": "Washing Machine",
+    "slug": "washing-machine",
+    "parentSlug": null,
+    "count": 7
+  },
+  {
+    "wooId": 219,
+    "name": "Water Dispenser",
+    "slug": "water-dispenser",
+    "parentSlug": "kitchen-appliances",
+    "count": 0
+  },
+  {
+    "wooId": 251,
+    "name": "Wifi Camera",
+    "slug": "wifi-camera",
+    "parentSlug": "ip-camera",
+    "count": 8
+  },
+  {
+    "wooId": 277,
+    "name": "Xiaomi brand QLED TV",
+    "slug": "xiaomi-brand-qled-tv",
+    "parentSlug": "smart-led-tv",
+    "count": 2
+  }
+]

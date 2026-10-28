@@ -1,0 +1,11 @@
+{$STORE_DOMAIN:localhost} {
+  reverse_proxy storefront:3000
+}
+
+admin.{$STORE_DOMAIN:localhost} {
+  reverse_proxy admin:3001
+}
+
+api.{$STORE_DOMAIN:localhost} {
+  reverse_proxy api:4000
+}

@@ -1,0 +1,26 @@
+export const PERMISSIONS = [
+  'settings.read',
+  'settings.write',
+  'catalog.read',
+  'catalog.write',
+  'media.write',
+  'orders.read',
+  'orders.write',
+  'customers.read',
+  'customers.write',
+  'inventory.read',
+  'inventory.write',
+  'purchases.write',
+  'pos.sell',
+  'pos.return',
+  'pos.session',
+  'reports.read',
+  'users.read',
+  'users.write',
+  'coupons.read',
+  'coupons.write',
+  'warranties.read',
+  'warranties.write',
+] as const;
+
+export type PermissionSlug = (typeof PERMISSIONS)[number];
